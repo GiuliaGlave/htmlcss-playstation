@@ -1,0 +1,15 @@
+.row{
+
+    /* debug */
+    border: solid black;
+}
+
+.container-fluid{
+    background-color: gray;
+    height: 200px;;
+}
+
+.container{
+    background-color: lightblue;
+    height: 300px;
+}
