@@ -4,9 +4,11 @@
     border: solid black;
 }
 
+.col{
+    border: dashed red;
+}
 .container-fluid{
-    background-color: gray;
-    height: 200px;;
+    background-color: rgb(169, 132, 132);
 }
 
 .container{
