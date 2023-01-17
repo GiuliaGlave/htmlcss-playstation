@@ -1,4 +1,4 @@
-.row{
+.row {
 
     /* debug */
     border: solid green;
@@ -6,16 +6,45 @@
 
 .col{
     border: dashed red;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 .container-fluid{
-    background-color: rgb(169, 132, 132);
+    /* background-color: rgb(169, 132, 132); */
 }
 
 .container{
     background-color: lightblue;
    
 }
+
+/* HEADER */
+header{
+    background-color: black;
+}
+
+.top-header > .col > img{
+    width: 4rem;
+    height: 2rem;
+}
+
+nav{
+    background-color: white;
+}
+
+nav li,
+nav div{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+li > div > img{
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+
+
 
 #jumbotron .container:first-child {
     background-image: url(../img/jumbo-bg.png);

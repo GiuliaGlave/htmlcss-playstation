@@ -10,3 +10,18 @@
 	clear: both;
 	display: table;
 }
+
+li {
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+/* BUTTONS */
+.btn-dark{
+	border-radius: 3rem;
+	background-color: #363636;
+}
