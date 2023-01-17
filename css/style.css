@@ -30,3 +30,11 @@
     background-repeat: no-repeat;
     height: 42rem;
 }
+
+.bottom-footer > .row > .col > img {
+    width: 1rem;
+}
+
+.copyright > .row > .col > img {
+    width: 10rem;
+}
