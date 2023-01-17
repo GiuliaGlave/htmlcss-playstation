@@ -1,7 +1,7 @@
 .row{
 
     /* debug */
-    border: solid black;
+    border: solid green;
 }
 
 .col{
@@ -17,12 +17,16 @@
    
 }
 
-#jumbotron .container:first-child{
+#jumbotron .container:first-child {
     background-image: url(../img/jumbo-bg.png);
-    /* height: 85vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 42rem;
 }
 
 #jumbotron-2 .container {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-   /*  height: 65vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 42rem;
 }
