@@ -21,6 +21,13 @@ a{
 }
 
 /* BUTTONS */
+.btn{
+	border-radius: 3rem;
+}
+
+.btn-danger{
+	background-color: #cd3d0f;
+}
 .btn-dark{
 	border-radius: 3rem;
 	background-color: #363636;
