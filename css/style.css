@@ -1,22 +1,3 @@
-.row {
-
-    /* debug */
-    border: solid green;
-}
-
-.col{
-    border: dashed red;
-    /* background-color: yellow; */
-}
-.container-fluid{
-    /* background-color: rgb(169, 132, 132); */
-}
-
-.container{
-    background-color: lightblue;
-   
-}
-
 /* HEADER */
 header{
     background-color: black;
@@ -79,4 +60,8 @@ li > div > img{
 
 #playstation-now {
     background-color: #161c3b;
+}
+
+.bottom-footer{
+    background-color: #00439c; 
 }
