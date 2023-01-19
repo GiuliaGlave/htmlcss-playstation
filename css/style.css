@@ -25,16 +25,14 @@ li > div > img{
 }
 
 
-
-
-#jumbotron .container:first-child {
+#jumbotron .container-fluid:first-child {
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     height: 42rem;
 }
 
-#jumbotron-2 .container {
+#jumbotron-2 .container-fluid {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
     background-repeat: no-repeat;
