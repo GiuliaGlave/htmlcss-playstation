@@ -68,3 +68,7 @@ li > div > img{
 .copyright > .row > .col > img {
     width: 10rem;
 }
+
+#new-release{
+    background-color: #1f1f1f;
+}
